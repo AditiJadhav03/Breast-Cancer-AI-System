@@ -1,0 +1,17 @@
+[theme]
+# Primary color for buttons, links, etc. (e.g., Pink for Breast Cancer Awareness)
+primaryColor="#0a5a16" 
+
+# Background color of the main content area
+backgroundColor="#084b58" 
+
+# Background color of the sidebar and secondary elements
+secondaryBackgroundColor="#b0255f" 
+
+# Color for text
+textColor="#ececf0" 
+
+# Font family
+font="sans serif"
+
+#streamlit run app.py
